@@ -3,9 +3,9 @@
 
 
 Download mist Model weights (teacher model), 
-Download:
+Download:https://pan.baidu.com/s/11gxXGiTWKqqdCAD6q98RNw?pwd=hbid
 
-Download Datasets,
+**Download Datasets,**
 Synapse:"https://www.synapse.org/#!Synapse:syn3193805/wiki/217790"
 CHAOS:"https://chaos.grand-challenge.org/Combined_Healthy_Abdominal_Organ_Segmentation"
 
